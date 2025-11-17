@@ -17,14 +17,14 @@
     "d1_databases": [
         {
             "binding": "DB",
-            "database_name": "navigation-db-local",
-            "database_id": "43ff28e1-42d6-4e53-9657-0702ae1353b6"
+            "database_name": "navihive-db",
+            "database_id": "5204a8a2-7ce2-4909-8e50-99b3956da8a2"
         }
     ],
     "vars": {
         "AUTH_ENABLED": "true",
-        "AUTH_USERNAME": "linuxdo",
-        "AUTH_PASSWORD": "$2a$10$qJSD/KCpM3iJWl3vYj1vZea7yP3IPNOfb6T/trJYcKU8URRUwfPcO",
-        "AUTH_SECRET": "navihive-test-secret-2025"
+        "AUTH_USERNAME": "frank",
+        "AUTH_PASSWORD": "$2a$10$l.2wFGeViVJOVm/xkyAKC.myIpZga4jpjVc45QW30mcpuKMs4iYIu",
+        "AUTH_SECRET": "navihive-secret-frank-2025"
     }
 }
