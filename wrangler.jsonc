@@ -24,7 +24,7 @@
     "vars": {
         "AUTH_ENABLED": "true",
         "AUTH_USERNAME": "linuxdo",
-        "AUTH_PASSWORD": "linuxdo",
-        "AUTH_SECRET": "linuxdo"
+        "AUTH_PASSWORD": "$2a$10$qJSD/KCpM3iJWl3vYj1vZea7yP3IPNOfb6T/trJYcKU8URRUwfPcO",
+        "AUTH_SECRET": "navihive-test-secret-2025"
     }
 }
